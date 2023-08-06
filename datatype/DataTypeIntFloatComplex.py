@@ -30,3 +30,5 @@ c=int("10") #tyepcasting
 print(c)
 print(type(c))
 
+
+
