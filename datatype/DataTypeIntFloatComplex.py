@@ -2,7 +2,7 @@
 
 #1. int datatype
 print("\n############int datatype##################")
-a=10
+a=-10
 print(a)
 print(type(a))
 
@@ -30,5 +30,11 @@ c=int("10") #tyepcasting
 print(c)
 print(type(c))
 
+#/Boolean
+
+b11=bool(1)
+print(b11)
+b11=bool(-1)
+print(b11)
 
 

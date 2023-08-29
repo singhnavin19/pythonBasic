@@ -11,7 +11,6 @@ print(lastName)
 
 fullName='''No Internet
 Try:
-
 Checking the network cables, modem and router
 Reconnecting to Wi-Fi
 ERR_INTERNET_DISCONNECTED'''
