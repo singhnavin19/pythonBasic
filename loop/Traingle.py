@@ -1,4 +1,4 @@
-print("rectange")
+print("square")
 for i in range(1,6):
     for j in range(1,6):
         print("*",end=" ")
@@ -42,12 +42,13 @@ for i in range(5,0,-1):
         print("*",end="")
     print()
 
-print("reverse")
+print("\n rectange ")
 for i in range(0,5):
-
     for j in range(0,10):
         print("*",end=" ")
     print()
+
+
 print("\nlast pattern")
 for i in range(1,6):
     for i1 in range(0,i):
