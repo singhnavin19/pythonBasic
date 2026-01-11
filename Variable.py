@@ -1,6 +1,6 @@
 #Dyanmic type language
-a=10
-print(type(a))
+a_a=10
+print(type(a_a))
 
 b="Navin" #"" or '' or ''' '''
 print(type(b))

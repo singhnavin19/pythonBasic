@@ -1,0 +1,7 @@
+print("Hello Navin Sir")
+no1=int(input("please enter no1="))
+no2=int(input("please enter no2="))
+# no1=int(no1)
+# no2=int(no2)
+# print(type(no1))
+print(no1+no2)
