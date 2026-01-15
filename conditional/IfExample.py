@@ -1,6 +1,6 @@
 age=int(input("please enter your age"))
 print("your age is ",age)
-if age > 18:
+if age == 18:
     print("Eligible to apply voting card")
     print("Eligible to apply Pancard")
 else:
