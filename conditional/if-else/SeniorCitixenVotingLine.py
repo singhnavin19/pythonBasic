@@ -11,3 +11,5 @@ if booth>=1 and booth<=30:
         print("Sir/Madam aap mahan ho ,ghar se vote karo") 
 else:
     print("counter 2 pe jao")
+
+    
