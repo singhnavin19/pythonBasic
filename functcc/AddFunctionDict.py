@@ -9,10 +9,6 @@ def susbtarct(nos):
     for n in nos:
         subs=subs-n
     return subs
-def primeNos(nos):
-    while nos>=0:
-        print(nos)
-        nos=nos-1
 
 dicNos={addNos:noss,susbtarct:[10,6]}
 for entry in dicNos.keys():

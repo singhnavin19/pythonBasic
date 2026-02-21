@@ -4,4 +4,4 @@ def sayHello(no):
         sayHello(no+1)
         print(no)
 
-sayHello(1)
+sayHello.__code__.co_argcount
