@@ -5,5 +5,7 @@
 # f.close()
 
 
+
 with open("navin.txt",'a+') as f:
     f.write("hello")
+    f.flush
